@@ -1,19 +1,52 @@
 body {
     background-color: #F0EFDA;
-  }
-  h1, .contact{
-    text-align: center;
-  }
-  
-  li.school {
-    list-style: none;
-  }
-  
-  h4 {
-    margin-bottom: 0;
-  }
-  
-  ul {
-    margin-top: 0;
-    margin-left: -10px;
-  }
+    font-family: Arial, Helvetica, sans-serif
+}
+
+/* .resume {
+  font-family: Arial, Helvetica, sans-serif;
+} */
+
+.name {
+  font-size: 35px;
+  margin: 5px 0 0 0;
+  font-weight: bold;
+}
+
+.title {
+  font-size: 20px;
+  margin: 0;
+  font-weight: 500;
+}
+
+.email, .phone {
+  font-size: 14px;
+}
+
+.email {
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.phone {
+  margin: 0px;
+}
+
+
+
+h1, .contact{
+  text-align: center;
+}
+
+li.school {
+  list-style: none;
+}
+
+h4 {
+  margin-bottom: 0;
+}
+
+ul {
+  margin-top: 0;
+  margin-left: -10px;
+}
